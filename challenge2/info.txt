@@ -1,1 +1,2 @@
-Take this text and add to the end of it!
+write your team names under this text.
+Trevor,Scott
